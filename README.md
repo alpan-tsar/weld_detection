@@ -12,7 +12,7 @@ git clone https://github.com/alpan-tsar/weld_detection/
 
 Locate your testing images in ```test``` folder
 
-To run our model just follow weld_detection_inference.ipynb
+To run our model just follow ```weld_detection_inference.ipynb```
 
 You will find visualized results in ```runs/detect/predict/``` folder
 
